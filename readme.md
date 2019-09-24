@@ -16,6 +16,6 @@ Liens utiles :
 * flexbox : https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 * étourderies CSS : https://css-tricks.com/css-basics-syntax-matters-syntax-doesnt/
 
-Bonne chance ! Vous avez 2 jours :)
+Bonne chance ! 
 
 
